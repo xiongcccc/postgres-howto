@@ -18,3 +18,12 @@ This project has been started by [@NikolayS]() on 2023-09-26 https://twitter.com
 一个很不错的学习资源，都是总结的一些实践经验，我会不定期翻译一篇，并添加笔者自己的理解。
 
 觉得项目不错，不妨点个 ⭐️ 再走 ~
+
+## 目录
+
+- 0001 [EXPLAIN ANALYZE or EXPLAIN (ANALYZE, BUFFERS)?](https://github.com/xiongcccc/postgres-howto/blob/master/EXPLAIN%20ANALYZE%20or%20EXPLAIN%20(ANALYZE%2C%20BUFFERS).md)
+- 0002 [How to troubleshoot and speed up Postgres stop and restart attempts](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20troubleshoot%20and%20speed%20up%20Postgres%20stop%20and%20restart%20attempts.md)
+- 0003 [How to troubleshoot long Postgres startup](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20troubleshoot%20long%20Postgres%20startup.md)
+- 0004 [Understanding how sparsely tuples are stored in a table](https://github.com/xiongcccc/postgres-howto/blob/master/Understanding%20how%20sparsely%20tuples%20are%20stored%20in%20a%20table.md)
+- 0005 [How to work with pg_stat_statments, part 1](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20work%20with%20pg_stat_statements%2C%20part%201.md)
+
