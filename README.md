@@ -28,3 +28,4 @@ This project has been started by [@NikolayS]() on 2023-09-26 https://twitter.com
 - 0005 [How to work with pg_stat_statments, part 1](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20work%20with%20pg_stat_statements%2C%20part%201.md)
 - 0006 [How to work with pg_stat_statments, part 2](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20work%20with%20pg_stat_statements%2C%20part%202.md)
 - 0007 [How to work with pg_stat_statments, part 3](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20work%20with%20pg_stat_statements%2C%20part%203.md)
+- 0008 [How to speed up pg_dump when dumping large databases](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20speed%20up%20pg_dump%20when%20dumping%20large%20databases.md)
