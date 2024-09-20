@@ -31,3 +31,5 @@ This project has been started by [@NikolayS]() on 2023-09-26 https://twitter.com
 - 0008 [How to speed up pg_dump when dumping large databases](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20speed%20up%20pg_dump%20when%20dumping%20large%20databases.md)
 - 0009 [How to understand LSN values and WAL filenames](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20understand%20LSN%20values%20and%20WAL%20filenames.md)
 - 0010 [How to troubleshoot Postgres performance using FlameGraphs and eBPF (or perf)](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20troubleshoot%20Postgres%20performance%20using%20FlameGraphs%20and%20eBPF%20(or%20perf).md)
+- 0011 [Ad-hoc monitoring](https://github.com/xiongcccc/postgres-howto/blob/master/Ad-hoc%20monitoring.md)
+- 0012 [How to find query examples for problematic pg_stat_statements records](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20find%20query%20examples%20for%20problematic%20pg_stat_statements%20records.md)
