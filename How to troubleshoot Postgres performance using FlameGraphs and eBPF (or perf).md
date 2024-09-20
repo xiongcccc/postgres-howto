@@ -205,4 +205,4 @@ where i between 1000 and 2000;
 
 一图胜千言
 
-![image-20240920091816290](/Users/xiongcancan/Library/Application Support/typora-user-images/image-20240920091816290.png)
+<img width="1225" alt="image" src="https://github.com/user-attachments/assets/53a1c326-458e-4236-876a-2246ad972e7e">
