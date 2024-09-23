@@ -1,3 +1,5 @@
+# How to monitor CREATE INDEX / REINDEX progress in Postgres 12+
+
 > 我每天都会发布一篇新的 PostgreSQL "howto" 文章。加入我的旅程吧 — 订阅、提供反馈、分享！
 
 要观察长时间运行的索引创建或重建的进度，你可以使用以下查询：

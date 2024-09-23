@@ -34,3 +34,5 @@ This project has been started by [@NikolayS]() on 2023-09-26 https://twitter.com
 - 0011 [Ad-hoc monitoring](https://github.com/xiongcccc/postgres-howto/blob/master/Ad-hoc%20monitoring.md)
 - 0012 [How to find query examples for problematic pg_stat_statements records](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20find%20query%20examples%20for%20problematic%20pg_stat_statements%20records.md)
 - 0013 [How to benchmark](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20benchmark.md)
+- 0014 [How to decide when a query is too slow and needs optimization](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20decide%20when%20a%20query%20is%20too%20slow%20and%20needs%20optimization.md)
+- 0015 [How to monitor CREATE INDEX / REINDEX progress in Postgres 12+](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20monitor%20CREATE%20INDEX%20%3A%20REINDEX%20progress%20in%20Postgres%2012%2B.md)
