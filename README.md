@@ -36,3 +36,5 @@ This project has been started by [@NikolayS]() on 2023-09-26 https://twitter.com
 - 0013 [How to benchmark](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20benchmark.md)
 - 0014 [How to decide when a query is too slow and needs optimization](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20decide%20when%20a%20query%20is%20too%20slow%20and%20needs%20optimization.md)
 - 0015 [How to monitor CREATE INDEX / REINDEX progress in Postgres 12+](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20monitor%20CREATE%20INDEX%20%3A%20REINDEX%20progress%20in%20Postgres%2012%2B.md)
+- 0016 [How to get into trouble using some Postgres features](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20get%20into%20trouble%20using%20some%20Postgres%20features.md)
+- 0017 [How to determine the replication lag](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20determine%20the%20replication%20lag.md)
