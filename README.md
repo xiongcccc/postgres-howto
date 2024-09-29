@@ -39,3 +39,4 @@ This project has been started by [@NikolayS]() on 2023-09-26 https://twitter.com
 - 0016 [How to get into trouble using some Postgres features](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20get%20into%20trouble%20using%20some%20Postgres%20features.md)
 - 0017 [How to determine the replication lag](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20determine%20the%20replication%20lag.md)
 - 0018 [Over-indexing](https://github.com/xiongcccc/postgres-howto/blob/master/Over-indexing.md)
+- 0019 [How to import CSV to Postgres](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20import%20CSV%20to%20Postgres.md)
