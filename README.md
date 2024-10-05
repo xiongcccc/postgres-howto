@@ -42,3 +42,4 @@ This project has been started by [@NikolayS]() on 2023-09-26 https://twitter.com
 - 0019 [How to import CSV to Postgres](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20import%20CSV%20to%20Postgres.md)
 - 0020 [How to use pg_restore](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20use%20pg_restore.md)
 - 0021 [How to set application_name without extra queries](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20set%20application_name%20without%20extra%20queries.md)
+- 0022 [How to analyze heavyweight locks, part 1](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20analyze%20heavyweight%20locks%2C%20part%201.md)
