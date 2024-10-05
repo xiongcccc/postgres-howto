@@ -116,6 +116,13 @@ order by relname;
 
 文章中提到的锁冲突表格如下，也挺清晰：
 
-![image-20241005180426121](/Users/xiongcancan/Library/Application Support/typora-user-images/image-20241005180426121.png)
+| Runs concurrently with                          | SELECT | INSERT UPDATE DELETE | CREATE INDEX CONC VACUUM ANALYZE | CREATE INDEX | CREATE TRIGGER | ALTER TABLE DROP TABLE TRUNCATE VACUUM FULL |
+| :---------------------------------------------- | :----: | :------------------: | :------------------------------: | :----------: | :------------: | :-----------------------------------------: |
+| **SELECT**                                      |   ✅    |          ✅           |                ✅                 |      ✅       |       ✅        |                      ❌                      |
+| **INSERT UPDATE DELETE**                        |   ✅    |          ✅           |                ✅                 |      ❌       |       ❌        |                      ❌                      |
+| **CREATE INDEX CONC VACUUM ANALYZE**            |   ✅    |          ✅           |                ❌                 |      ❌       |       ❌        |                      ❌                      |
+| **CREATE INDEX**                                |   ✅    |          ❌           |                ❌                 |      ✅       |       ❌        |                      ❌                      |
+| **CREATE TRIGGER**                              |   ✅    |          ❌           |                ❌                 |      ❌       |       ❌        |                      ❌                      |
+| **ALTER TABLE DROP TABLE TRUNCATE VACUUM FULL** |   ❌    |          ❌           |                ❌                 |      ❌       |       ❌        |                      ❌                      |
 
 另外，重锁会形成一个公平的等待队列 (这一点不用于行级锁)。如果进程试图获取与当前锁或与队列中其他进程已请求的锁不兼容的锁，那么这个进程便会加入队列。
