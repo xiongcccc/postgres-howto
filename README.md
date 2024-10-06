@@ -43,3 +43,5 @@ This project has been started by [@NikolayS]() on 2023-09-26 https://twitter.com
 - 0020 [How to use pg_restore](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20use%20pg_restore.md)
 - 0021 [How to set application_name without extra queries](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20set%20application_name%20without%20extra%20queries.md)
 - 0022 [How to analyze heavyweight locks, part 1](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20analyze%20heavyweight%20locks%2C%20part%201.md)
+- 0023 [How to use OpenAI APIs right from Postgres to implement semantic search and GPT chat](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20use%20OpenAI%20APIs%20right%20from%20Postgres%20to%20implement%20semantic%20search%20and%20GPT%20chat.md)
+- 0024 [How to work with metadata](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20work%20with%20metadata.md)
