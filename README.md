@@ -45,3 +45,6 @@ This project has been started by [@NikolayS]() on 2023-09-26 https://twitter.com
 - 0022 [How to analyze heavyweight locks, part 1](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20analyze%20heavyweight%20locks%2C%20part%201.md)
 - 0023 [How to use OpenAI APIs right from Postgres to implement semantic search and GPT chat](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20use%20OpenAI%20APIs%20right%20from%20Postgres%20to%20implement%20semantic%20search%20and%20GPT%20chat.md)
 - 0024 [How to work with metadata](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20work%20with%20metadata.md)
+- 0025 [How to quit from psql](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20quit%20from%20psql.md)
+- 0026 [How to check btree indexes for corruption](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20check%20btree%20indexes%20for%20corruption.md)
+- 0027 [How to compile Postgres on Ubuntu 22.04](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20compile%20Postgres%20on%20Ubuntu%2022.04.md)
