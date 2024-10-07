@@ -50,3 +50,4 @@ This project has been started by [@NikolayS]() on 2023-09-26 https://twitter.com
 - 0027 [How to compile Postgres on Ubuntu 22.04](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20compile%20Postgres%20on%20Ubuntu%2022.04.md)
 - 0028 [How to work with arrays, part 1](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20work%20with%20arrays%2C%20part%201.md)
 - 0029 [How to work with arrays, part 2](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20work%20with%20arrays%2C%20part%202.md)
+- 0030 [How to deal with long-running transactions (OLTP)](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20deal%20with%20long-running%20transactions%20(OLTP).md)
