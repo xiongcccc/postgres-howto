@@ -53,3 +53,5 @@ This project has been started by [@NikolayS]() on 2023-09-26 https://twitter.com
 - 0030 [How to deal with long-running transactions (OLTP)](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20deal%20with%20long-running%20transactions%20(OLTP).md)
 - 0031 [How to troubleshoot a growing pg_wal directory](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20troubleshoot%20a%20growing%20pg_wal%20directory.md)
 - 0032 [How to speed up bulk load](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20speed%20up%20bulk%20load.md)
+- 0033 [How to redefine a PK without downtime](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20redefine%20a%20PK%20without%20downtime.md)
+- 0034 [How to perform initial / rough Postgres tuning](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20perform%20initial%20%20rough%20Postgres%20tuning.md)
