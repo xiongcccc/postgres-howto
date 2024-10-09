@@ -1,5 +1,7 @@
 # How to perform initial / rough Postgres tuning
 
+>我每天都会发布一篇新的 PostgreSQL "howto" 文章。加入我的旅程吧 — 订阅、提供反馈、分享！
+
 现代 PostgreSQL 提供了超过 300 个设置 (即所谓的 GUC 变量，"grand unified configuration")。为特定环境、数据库和工作负载对 Postgres 进行精细调优是一项非常复杂的任务。
 
 但在大多数情况下，帕累托法则 (即二八法则) 非常有效：你只需要投入有限的精力处理基本的调优领域，然后专注于查询性能。这个方法背后的逻辑很简单：你可能会花费大量时间为 `shared_buffers` 找到比传统的 25% 更合适的值 (很多人认为 25% 并不理想，比如  [Andres Freund's Tweet](https://twitter.com/andresfreundtec/status/1178765225895399424))，但你可能会发现某些查询由于性能不佳 (例如缺少适当的索引) 而破坏了所有调优的正面效果。
