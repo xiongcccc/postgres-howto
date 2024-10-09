@@ -110,3 +110,6 @@ The connection to the server was lost. Attempting reset: Succeeded.
 
 读者阿沐分享了 transaction_timeout 内核实现，具体可以参照"PostgreSQL学徒"公众号。
 
+## 1010更新
+
+🔗：[惹眼新特性之transaction_timeout原理解读](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247492267&idx=1&sn=feaeddc38c81a305ab8327433b72943d&chksm=fa65ca9acd12438cfed1fee37ba2d0112d90225e40772ab5663d36e2ec8e1d9f459d928afac7&token=1022057800&lang=zh_CN#rd)
