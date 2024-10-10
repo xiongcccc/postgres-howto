@@ -56,3 +56,4 @@ This project has been started by [@NikolayS]() on 2023-09-26 https://twitter.com
 - 0033 [How to redefine a PK without downtime](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20redefine%20a%20PK%20without%20downtime.md)
 - 0034 [How to perform initial / rough Postgres tuning](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20perform%20initial%20%20rough%20Postgres%20tuning.md)
 - 0035 [How to use subtransactions in Postgres](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20use%20subtransactions%20in%20Postgres.md)
+- 0036 ["Find-or-insert" using a single query](https://github.com/xiongcccc/postgres-howto/blob/master/Find-or-insert%20using%20a%20single%20query.md)
