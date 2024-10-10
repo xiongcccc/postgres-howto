@@ -57,3 +57,5 @@ This project has been started by [@NikolayS]() on 2023-09-26 https://twitter.com
 - 0034 [How to perform initial / rough Postgres tuning](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20perform%20initial%20%20rough%20Postgres%20tuning.md)
 - 0035 [How to use subtransactions in Postgres](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20use%20subtransactions%20in%20Postgres.md)
 - 0036 ["Find-or-insert" using a single query](https://github.com/xiongcccc/postgres-howto/blob/master/Find-or-insert%20using%20a%20single%20query.md)
+- 0037 [How to enable data checksums without downtime](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20enable%20data%20checksums%20without%20downtime.md)
+- 0038 [How to NOT get screwed as a DBA (DBRE)](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20NOT%20get%20screwed%20as%20a%20DBA%20(DBRE).md)
