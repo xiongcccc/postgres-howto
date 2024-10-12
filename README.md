@@ -61,3 +61,4 @@ This project has been started by [@NikolayS]() on 2023-09-26 https://twitter.com
 - 0038 [How to NOT get screwed as a DBA (DBRE)](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20NOT%20get%20screwed%20as%20a%20DBA%20(DBRE).md)
 - 0039 [How to break a database, Part 1: How to corrupt](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20break%20a%20database%2C%20Part%201%20How%20to%20corrupt.md)
 - 0040 [How to break a database, Part 2: Simulate infamous transaction ID wraparound](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20break%20a%20database%2C%20Part%202-%20Simulate%20infamous%20transaction%20ID%20wraparound.md)
+- 0041 [How to break a database, Part 3: Harmful workloads](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20break%20a%20database%2C%20Part%203%20Harmful%20workloads.md)
