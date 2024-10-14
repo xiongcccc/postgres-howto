@@ -63,3 +63,5 @@ This project has been started by [@NikolayS]() on 2023-09-26 https://twitter.com
 - 0040 [How to break a database, Part 2: Simulate infamous transaction ID wraparound](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20break%20a%20database%2C%20Part%202-%20Simulate%20infamous%20transaction%20ID%20wraparound.md)
 - 0041 [How to break a database, Part 3: Harmful workloads](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20break%20a%20database%2C%20Part%203%20Harmful%20workloads.md)
 - 0042 [How to analyze heavyweight locks, part 2: Lock trees (a.k.a. "lock queues", "wait queues", "blocking chains")](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20analyze%20heavyweight%20locks%2C%20part%202%20Lock%20trees%20(a.k.a.%20lock%20queues%2C%20wait%20queues%2C%20blocking%20chains).md)
+- 0043 [How to format SQL (SQL style guide)](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20format%20SQL%20(SQL%20style%20guide).md)
+- 0044 [How to monitor transaction ID wraparound risks](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20monitor%20transaction%20ID%20wraparound%20risks.md)
