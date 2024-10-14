@@ -8,7 +8,7 @@
 
 这个方法需要一些时间，但效果很好。已在多个地方讨论过：
 
-- [ [A question from Telegram chat](https://twitter.com/samokhvalov/status/1415575072081809409)](https://twitter.com/postgresql/status/1338516236636936192)
+-  [A question from Telegram chat](https://twitter.com/samokhvalov/status/1415575072081809409)
 - [How to simulate the deadly, infamous, misunderstood & complex ‘Transaction Wraparound Problem’ in PostgreSQL](https://fatdba.com/2021/07/20/how-to-simulate-the-deadly-transaction-wraparound-problem-in-postgresql/)
 
 首先，开启一个"长时间运行的事务" (分配一个正常的 XID 给它，因为它将是一个写事务) — 并保持该会话处于开启状态 (我们将使用一个命名管道，也称为 FIFO，让 `psql` 会话夯住)：
