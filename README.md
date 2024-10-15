@@ -65,3 +65,5 @@ This project has been started by [@NikolayS]() on 2023-09-26 https://twitter.com
 - 0042 [How to analyze heavyweight locks, part 2: Lock trees (a.k.a. "lock queues", "wait queues", "blocking chains")](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20analyze%20heavyweight%20locks%2C%20part%202%20Lock%20trees%20(a.k.a.%20lock%20queues%2C%20wait%20queues%2C%20blocking%20chains).md)
 - 0043 [How to format SQL (SQL style guide)](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20format%20SQL%20(SQL%20style%20guide).md)
 - 0044 [How to monitor transaction ID wraparound risks](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20monitor%20transaction%20ID%20wraparound%20risks.md)
+- 0045 [How to monitor xmin horizon to prevent XID/MultiXID wraparound and high bloat](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20monitor%20xmin%20horizon%20to%20prevent%20XIDMultiXID%20wraparound%20and%20high%20bloat.md)
+- 0046 [How to deal with bloat](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20deal%20with%20bloat.md)
