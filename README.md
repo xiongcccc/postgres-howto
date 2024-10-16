@@ -67,3 +67,4 @@ This project has been started by [@NikolayS]() on 2023-09-26 https://twitter.com
 - 0044 [How to monitor transaction ID wraparound risks](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20monitor%20transaction%20ID%20wraparound%20risks.md)
 - 0045 [How to monitor xmin horizon to prevent XID/MultiXID wraparound and high bloat](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20monitor%20xmin%20horizon%20to%20prevent%20XIDMultiXID%20wraparound%20and%20high%20bloat.md)
 - 0046 [How to deal with bloat](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20deal%20with%20bloat.md)
+- 0047 [How to install Postgres 16 with plpython3u: Recipes for macOS, Ubuntu, Debian, CentOS, Docker](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20install%20Postgres%2016%20with%20plpython3u%20Recipes%20for%20macOS%2C%20Ubuntu%2C%20Debian%2C%20CentOS%2C%20Docker.md)
