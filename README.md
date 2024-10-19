@@ -70,3 +70,4 @@ This project has been started by [@NikolayS]() on 2023-09-26 https://twitter.com
 - 0047 [How to install Postgres 16 with plpython3u: Recipes for macOS, Ubuntu, Debian, CentOS, Docker](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20install%20Postgres%2016%20with%20plpython3u%20Recipes%20for%20macOS%2C%20Ubuntu%2C%20Debian%2C%20CentOS%2C%20Docker.md)
 - 0048 [How to generate fake data](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20generate%20fake%20data.md)
 - 0049 [How to use variables in psql scripts](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20use%20variables%20in%20psql%20scripts.md)
+- 0050 [Pre- and post-steps for benchmark iterations](https://github.com/xiongcccc/postgres-howto/blob/master/Pre-%20and%20post-steps%20for%20benchmark%20iterations.md)
