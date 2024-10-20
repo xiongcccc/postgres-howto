@@ -59,6 +59,7 @@ SQL 标准定义了描述这种机制的两个基本指令：`SAVEPOINT` 和扩�
   - 避免深度嵌套
   - 在包含子事务的事务中谨慎使用 `SELECT ... FOR UPDATE`。
   - 监控 `pg_stat_slru` 数值 (PG13+，[Monitoring stats](https://postgresql.org/docs/current/monitoring-stats.html))，以便迅速发现并解决 SLRU 溢出问题。
+  
 
 # 我见
 
