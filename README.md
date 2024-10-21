@@ -71,3 +71,5 @@ This project has been started by [@NikolayS]() on 2023-09-26 https://twitter.com
 - 0048 [How to generate fake data](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20generate%20fake%20data.md)
 - 0049 [How to use variables in psql scripts](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20use%20variables%20in%20psql%20scripts.md)
 - 0050 [Pre- and post-steps for benchmark iterations](https://github.com/xiongcccc/postgres-howto/blob/master/Pre-%20and%20post-steps%20for%20benchmark%20iterations.md)
+- 0051 [Learn how to work with schema metadata by spying after psql](https://github.com/xiongcccc/postgres-howto/blob/master/Learn%20how%20to%20work%20with%20schema%20metadata%20by%20spying%20after%20psql.md)
+- 0052 [How to reduce WAL generation rates](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20reduce%20WAL%20generation%20rates.md)
