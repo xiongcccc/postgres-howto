@@ -78,3 +78,4 @@ This project has been started by [@NikolayS]() on 2023-09-26 https://twitter.com
 - 0055 [How to drop a column](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20drop%20a%20column.md)
 - 0056 [How to make the non-production Postgres planner behave like in production](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20make%20the%20non-production%20Postgres%20planner%20behave%20like%20in%20production.md)
 - 0057 [How to convert a physical replica to logical](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20convert%20a%20physical%20replica%20to%20logical.md)
+- 0058 [How to use Docker to run Postgres](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20use%20Docker%20to%20run%20Postgres.md)
