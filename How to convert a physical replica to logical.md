@@ -137,3 +137,8 @@ pg_createsubscriber to create a logical replica from a physical standby server
 
 另外原文中所说的最后一点，在 17 版本看似也已解决。具体可以参照上面的邮件
 
+以及如下🔗：
+
+- [PGConf.dev 2024 - New logical replication features in PostgreSQL 17](https://www.postgresql.fastware.com/blog/new-logical-replication-features-in-postgresql-17)
+- [What’s New In PostgreSQL 17](https://www.metisdata.io/blog/whats-new-in-postgresql-17)
+- https://git.postgresql.org/gitweb/?p=postgresql.git;a=commit;h=9a17be1e244a45a77de25ed2ada246fd34e4557d
