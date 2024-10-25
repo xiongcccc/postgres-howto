@@ -80,3 +80,5 @@ This project has been started by [@NikolayS]() on 2023-09-26 https://twitter.com
 - 0057 [How to convert a physical replica to logical](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20convert%20a%20physical%20replica%20to%20logical.md)
 - 0058 [How to use Docker to run Postgres](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20use%20Docker%20to%20run%20Postgres.md)
 - 0059 [psql tuning](https://github.com/xiongcccc/postgres-howto/blob/master/psql%20tuning.md) 
+- 0060 [How to add a column](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20add%20a%20column.md)
+- 0061 [How to create an index, part 1](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20create%20an%20index%2C%20part%201.md)
