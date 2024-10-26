@@ -82,3 +82,4 @@ This project has been started by [@NikolayS]() on 2023-09-26 https://twitter.com
 - 0059 [psql tuning](https://github.com/xiongcccc/postgres-howto/blob/master/psql%20tuning.md) 
 - 0060 [How to add a column](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20add%20a%20column.md)
 - 0061 [How to create an index, part 1](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20create%20an%20index%2C%20part%201.md)
+- 0062 [How to create an index, part 2](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20create%20an%20index%2C%20part%202.md)
