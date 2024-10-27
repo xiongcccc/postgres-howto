@@ -24,3 +24,18 @@
 3. DDL 应谨慎操作 — 确保它们不会导致大量写入 (如果会，则应分批处理)，并使用较低的 `lock_timeout` 和重试机制，以避免形成阻塞链。
 4. 不要允许长时间运行的事务。确保 xmin 视界在推进，autovacuum 可以及时删除死元组 — 避免事务持续时间过长 (>1-2 小时)。
 5. 即使是快的查询 (<100 毫秒)，如果 pg_stat_statements.calls 和 pg_stat_statements.total_exec_time 较高，也需要进行优化。
+
+## 我见
+
+- 10 ms or less – good performance
+- 10-100 ms – optimization is recommended
+- more than 100 ms – poor performance, optimization is needed
+
+![img](https://postgres.ai/assets/blog/20210909-slow-sql.png)
+
+另外，在 pb 中，可以跟直观地看到 TPS/QPS，详见：https://postgres.ai/blog/20210909-what-is-a-slow-sql-query
+
+~~~bash
+stats: 318 xacts/s, 443 queries/s, in 59883 B/s, out 122544 B/s, xact 1076 us, query 454 us, wait 548 us
+~~~
+
