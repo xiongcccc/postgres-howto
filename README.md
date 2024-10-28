@@ -17,6 +17,8 @@ This project has been started by [@NikolayS]() on 2023-09-26 https://twitter.com
 
 一个很不错的学习资源，都是总结的一些实践经验，我会不定期翻译一篇，并添加笔者自己的理解。
 
+在线阅读 📚：https://xiongcccc.github.io/postgres-howtos/#/
+
 觉得项目不错，不妨点个 ⭐️ 再走 ~
 
 ## 目录
@@ -84,3 +86,4 @@ This project has been started by [@NikolayS]() on 2023-09-26 https://twitter.com
 - 0061 [How to create an index, part 1](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20create%20an%20index%2C%20part%201.md)
 - 0062 [How to create an index, part 2](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20create%20an%20index%2C%20part%202.md)
 - 0063 [How to help others](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20help%20others.md)
+- 0064 [How to use UUID](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20use%20UUID.md)
