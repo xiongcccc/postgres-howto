@@ -67,5 +67,5 @@
 ## 推荐阅读材料
 
 - Postgres 官方文档: [Routine Vacuuming](https://postgresql.org/docs/current/routine-vacuuming.html)
-- [When `autovacuum` does not vacuum](https://2ndquadrant.com/en/blog/when-`autovacuum`-does-not-vacuum/)
+- [When autovacuum does not vacuum](https://2ndquadrant.com/en/blog/when-`autovacuum`-does-not-vacuum/)
 - [How to Reduce Bloat in Large PostgreSQL Tables](https://timescale.com/learn/how-to-reduce-bloat-in-large-postgresql-tables/)

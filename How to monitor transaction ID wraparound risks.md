@@ -94,6 +94,6 @@ limit 25;
 
 ## 告警
 
-如果 XID 或 MultiXID 的年龄增长超过一定的阈值 (通常为 2 亿，参考 [autovacuum_freeze_max_age](https://postgresqlco.nf/doc/en/param/autovacuum_freeze_max_age/)），这表明某些东西阻碍了正常的 autovacuum 工作。
+如果 XID 或 MultiXID 的年龄增长超过一定的阈值 (通常为 2 亿，参考 [autovacuum_freeze_max_age](https://postgresqlco.nf/doc/en/param/autovacuum_freeze_max_age/))，这表明某些东西阻碍了正常的 autovacuum 工作。
 
 因此，根据 autovacuum 的设置，监控系统应配置为在 XID 和 MultiXID 年龄超过预定义阈值 (通常在 3 亿到 10 亿范围内) 时发出警报。年龄超过 10 亿应被视为危险信号，要求紧急缓解措施。
