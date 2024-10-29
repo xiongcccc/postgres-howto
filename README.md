@@ -87,3 +87,4 @@ This project has been started by [@NikolayS]() on 2023-09-26 https://twitter.com
 - 0062 [How to create an index, part 2](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20create%20an%20index%2C%20part%202.md)
 - 0063 [How to help others](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20help%20others.md)
 - 0064 [How to use UUID](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20use%20UUID.md)
+- 0065 [UUID v7 and partitioning (TimescaleDB)](https://github.com/xiongcccc/postgres-howto/blob/master/UUID%20v7%20and%20partitioning%20(TimescaleDB).md)
