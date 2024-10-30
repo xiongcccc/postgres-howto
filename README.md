@@ -88,3 +88,6 @@ This project has been started by [@NikolayS]() on 2023-09-26 https://twitter.com
 - 0063 [How to help others](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20help%20others.md)
 - 0064 [How to use UUID](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20use%20UUID.md)
 - 0065 [UUID v7 and partitioning (TimescaleDB)](https://github.com/xiongcccc/postgres-howto/blob/master/UUID%20v7%20and%20partitioning%20(TimescaleDB).md)
+- 0066 [How many tuples can be inserted in a page](https://github.com/xiongcccc/postgres-howto/blob/master/How%20many%20tuples%20can%20be%20inserted%20in%20a%20page.md)
+- 0067 [Autovacuum "queue" and progress](https://github.com/xiongcccc/postgres-howto/blob/master/Autovacuum%20queue%20and%20progress.md)
+
