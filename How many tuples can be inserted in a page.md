@@ -109,6 +109,6 @@ where (ctid::text::point)[0] = 0;
 
 以 0️⃣ 填充：
 
-![image-20241030122538478](https://gitee.com/xiongcccc/internals_image/raw/master/docsfiy/image-20241030122538478.png)
+<img width="807" alt="image" src="https://github.com/user-attachments/assets/1b747d05-2996-4a63-8bf1-d70749a61113">
 
 >Here we only need 40 bytes per row excluding the variable sized data and 24-byte tuple header. 8 bytes being saved may not sound like much, but for tables as large as the events table it does begin to matter. For example, when storing 80 000 000 rows this translates to a space saving of at least 610 MB, all by just changing the order of a few columns.
