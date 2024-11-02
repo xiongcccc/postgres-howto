@@ -92,4 +92,6 @@ This project has been started by [@NikolayS]() on 2023-09-26 https://twitter.com
 - 0067 [Autovacuum "queue" and progress](https://github.com/xiongcccc/postgres-howto/blob/master/Autovacuum%20queue%20and%20progress.md)
 - 0068 [psql shortcuts](https://github.com/xiongcccc/postgres-howto/blob/master/psql%20shortcuts.md)
 - 0069 [How to add a CHECK constraint without downtime](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20add%20a%20CHECK%20constraint%20without%20downtime.md)
-
+- 0070 [How to add a foreign key](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20add%20a%20foreign%20key.md)
+- 0071 [How to understand what's blocking DDL](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20understand%20what's%20blocking%20DDL.md)
+- 0072 [How to remove a foreign key](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20remove%20a%20foreign%20key.md)
