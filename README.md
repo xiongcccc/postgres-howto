@@ -95,3 +95,4 @@ This project has been started by [@NikolayS]() on 2023-09-26 https://twitter.com
 - 0070 [How to add a foreign key](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20add%20a%20foreign%20key.md)
 - 0071 [How to understand what's blocking DDL](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20understand%20what's%20blocking%20DDL.md)
 - 0072 [How to remove a foreign key](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20remove%20a%20foreign%20key.md)
+- 0073 How to analyze heavyweight locks, part 3. Persistent monitoring
