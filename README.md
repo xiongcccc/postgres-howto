@@ -17,7 +17,7 @@ This project has been started by [@NikolayS]() on 2023-09-26 https://twitter.com
 
 一个很不错的学习资源，都是总结的一些实践经验，我会不定期翻译一篇，并添加笔者自己的理解。
 
-在线阅读 📚：https://xiongcccc.github.io/postgres-howtos/#/
+在线阅读 📚：https://postgres-howto.cn
 
 觉得项目不错，不妨点个 ⭐️ 再走 ~
 
