@@ -95,4 +95,7 @@ This project has been started by [@NikolayS]() on 2023-09-26 https://twitter.com
 - 0070 [How to add a foreign key](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20add%20a%20foreign%20key.md)
 - 0071 [How to understand what's blocking DDL](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20understand%20what's%20blocking%20DDL.md)
 - 0072 [How to remove a foreign key](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20remove%20a%20foreign%20key.md)
-- 0073 How to analyze heavyweight locks, part 3. Persistent monitoring
+- 0073 [How to analyze heavyweight locks, part 3. Persistent monitoring](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20analyze%20heavyweight%20locks%2C%20part%203.%20Persistent%20monitoring.md)
+- 0074 [How to flush caches (OS page cache and Postgres buffer pool)](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20flush%20caches%20(OS%20page%20cache%20and%20Postgres%20buffer%20pool).md)
+- 0075 [How to find unused indexes](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20find%20redundant%20indexes.md)
+- 0076 [How to find redundant indexes](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20find%20redundant%20indexes.md)

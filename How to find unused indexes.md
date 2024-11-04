@@ -1,4 +1,4 @@
-# 如何查找未使用的索引
+# How to find unused indexes
 
 >我每天都会发布一篇新的 PostgreSQL "howto" 文章。加入我的旅程吧 — 订阅、提供反馈、分享！
 
