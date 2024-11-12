@@ -99,3 +99,5 @@ This project has been started by [@NikolayS]() on 2023-09-26 https://twitter.com
 - 0074 [How to flush caches (OS page cache and Postgres buffer pool)](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20flush%20caches%20(OS%20page%20cache%20and%20Postgres%20buffer%20pool).md)
 - 0075 [How to find unused indexes](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20find%20redundant%20indexes.md)
 - 0076 [How to find redundant indexes](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20find%20redundant%20indexes.md)
+- 0077 [Postgres major upgrade without any downtime for a very large cluster running under heavy load](https://github.com/xiongcccc/postgres-howto/blob/master/Postgres%20major%20upgrade%20without%20any%20downtime%20for%20a%20very%20large%20cluster%20running%20under%20heavy%20load.md)
+- 0078 [How to estimate the YoY growth of a very large table using row creation timestamps and the planner statistics](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20estimate%20the%20YoY%20growth%20of%20a%20very%20large%20table%20using%20row%20creation%20timestamps%20and%20the%20planner%20statistics.md)
