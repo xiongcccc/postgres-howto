@@ -103,3 +103,18 @@ This project has been started by [@NikolayS]() on 2023-09-26 https://twitter.com
 - 0078 [How to estimate the YoY growth of a very large table using row creation timestamps and the planner statistics](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20estimate%20the%20YoY%20growth%20of%20a%20very%20large%20table%20using%20row%20creation%20timestamps%20and%20the%20planner%20statistics.md)
 - 0079 [How to rebuild many indexes using many backends avoiding deadlocks](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20rebuild%20many%20indexes%20using%20many%20backends%20avoiding%20deadlocks.md)
 - 0080 [How to find int4 PKs with out-of-range risks in a large database](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20find%20int4%20PKs%20with%20out-of-range%20risks%20in%20a%20large%20database.md)
+- 0081 [How to plot graphs right in psql on macOS (iTerm2)](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20plot%20graphs%20right%20in%20psql%20on%20macOS%20(iTerm2).md)
+- 0082 [How to draw frost patterns using SQL](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20draw%20frost%20patterns%20using%20SQL%20%E2%9D%84.md)
+- 0083 [How to change a Postgres parameter](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20change%20a%20Postgres%20parameter.md)
+- 0084 [How to find the best order of columns to save on storage ("Column Tetris")](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20find%20the%20best%20order%20of%20columns%20to%20save%20on%20storage%20(Column%20Tetris).md)
+- 0085 [How to quickly check data type and storage size of a value](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20quickly%20check%20data%20type%20and%20storage%20size%20of%20a%20value.md)
+- 0086 [How to make "\e" work in psql on a new machine ("editor/nano/vi not found")](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20make%20e%20work%20in%20psql%20on%20a%20new%20machine%20(editornanovi%20not%20found).md)
+- 0087 [How to change ownership of all objects in a database](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20change%20ownership%20of%20all%20objects%20in%20a%20database.md)
+- 0088 [How to tune Linux parameters for OLTP Postgres](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20tune%20Linux%20parameters%20for%20OLTP%20Postgres.md)
+- 0089 [Rough configuration tuning (80/20 rule; OLTP)](https://github.com/xiongcccc/postgres-howto/blob/master/Rough%20configuration%20tuning%20(8020%20rule%3B%20OLTP).md)
+- 0090 [How to use lib_pgquery in shell to normalize and match queries from various sources](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20use%20lib_pgquery%20in%20shell%20to%20normalize%20and%20match%20queries%20from%20various%20sources.md)
+- 0091 [How to format text output in psql scripts](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20format%20text%20output%20in%20psql%20scripts.md)
+- 0092 [How to tune work_mem](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20tune%20work_mem.md)
+- 0093 [How to troubleshoot streaming replication lag](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20troubleshoot%20streaming%20replication%20lag.md)
+
+正式完结撒花 🎉
