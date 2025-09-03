@@ -116,5 +116,6 @@ This project has been started by [@NikolayS]() on 2023-09-26 https://twitter.com
 - 0091 [How to format text output in psql scripts](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20format%20text%20output%20in%20psql%20scripts.md)
 - 0092 [How to tune work_mem](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20tune%20work_mem.md)
 - 0093 [How to troubleshoot streaming replication lag](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20troubleshoot%20streaming%20replication%20lag.md)
+- 0094 [How to run ANALYZE (to collect statistics)](https://github.com/xiongcccc/postgres-howto/blob/master/How%20to%20run%20ANALYZE%20(to%20collect%20statistics).md)
 
 正式完结撒花 🎉
